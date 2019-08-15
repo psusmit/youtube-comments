@@ -7,7 +7,7 @@ import numpy as np
 
 
 # enter name of youtube channel
-test = youtube_search("Last moment tuitions")
+test = youtube_search("random_channel")
 test.keys()
 comments=test['commentCount']
 # print(comments)
